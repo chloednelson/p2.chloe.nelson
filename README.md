@@ -6,7 +6,7 @@ CS 3366 Human Computer Interaction Project 2
 [https://github.com/chloednelson/p2.chloe.nelson](https://github.com/chloednelson/p2.chloe.nelson)
 
 ### Presentation Page:
-[https://chloednelson.github.io/p1.chloe.nelson](https://chloednelson.github.io/p1.chloe.nelson/)
+[https://chloednelson.github.io/p2.chloe.nelson](https://chloednelson.github.io/p2.chloe.nelson/)
 
 ## C Questions:
 ### Interface Photos:
