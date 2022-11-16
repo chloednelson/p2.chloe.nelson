@@ -8,7 +8,7 @@ CS 3366 Human Computer Interaction Project 2
 ### Presentation Page:
 [https://chloednelson.github.io/p2.chloe.nelson](https://chloednelson.github.io/p2.chloe.nelson/)
 
-## For a C:
+### For a C:
 ### Sketch of Mirror:
 
 ### For a B:
@@ -20,5 +20,6 @@ I have chosen to implement the lighting feature that can be clicked on or off wi
 
 
 ## Gif of Mirror:
-![p1 chloe nelson](https://user-images.githubusercontent.com/114605562/192932262-dd472921-8c77-4dec-a2ff-196368c69f5a.gif)
+https://user-images.githubusercontent.com/114605562/202092460-c89c941d-141b-4d45-8809-11fcc23978ce.mp4
+
 
