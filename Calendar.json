@@ -1,0 +1,49 @@
+{
+    "Day": {
+ "Monday": [
+  {
+   "Task1": "8:00 AM- Wake up",
+   "Task2": "10:00 AM- Attend Class",
+   "Task3": "11:00 AM- Do Homework",
+   "Task4": "1:00 PM- Attend Tutoring",
+   "Task5": "4:00 PM- Study"
+  }
+   ],
+   "Tuesday": [
+  {
+   "Task1": "9:00 AM- Wake up",
+   "Task2": "11:00 AM- Attend Class",
+   "Task3": "2:00 PM- Do Homework",
+   "Task4": "5:00 PM- Study with Friends",
+   "Task5": "8:00 PM- Watch TV"
+  }
+   ],
+   "Wednesday": [
+  {
+   "Task1": "6:00 AM- Wake up",
+   "Task2": "7:00 AM- Work",
+   "Task3": "10:00 AM- Attend Class",
+   "Task4": "1:00 PM- Study with Friends",
+   "Task5": "4:00 PM- Attend Tutoring"
+  }
+   ],
+   "Thursday": [
+  {
+   "Task1": "9:00 AM- Wake up",
+   "Task2": "11:00 AM- Attend Class",
+   "Task3": "2:00 PM- Do Homework",
+   "Task4": "5:00 PM- Study with Friends",
+   "Task5": "8:00 PM- Watch TV"
+  }
+   ],
+   "Friday": [
+  {
+   "Task1": "8:00 AM- Wake up",
+   "Task2": "10:00 AM- Attend Class",
+   "Task3": "11:00 AM- Do Homework",
+   "Task4": "1:00 PM- Attend Tutoring",
+   "Task5": "4:00 PM- Study"
+  }
+   ]
+ }
+}
