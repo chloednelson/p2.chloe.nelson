@@ -20,8 +20,11 @@ I have implemented for Health-Related Information- The ammount of sleep in hours
 ### For an A:
 I have chosen to implement the lighting feature that can be clicked on or off with a button. There is no set color to this light as this light can be any random set of colors it would like.
 
+## GIF of Mirror:
+![p2 chloe nelson](https://user-images.githubusercontent.com/114605562/202093465-8b15e288-d242-4b3c-b833-352a6d3c6553.gif)
 
-## Gif of Mirror:
+
+## Video Presentation of Mirror:
 https://user-images.githubusercontent.com/114605562/202092460-c89c941d-141b-4d45-8809-11fcc23978ce.mp4
 
 
