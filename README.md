@@ -10,6 +10,8 @@ CS 3366 Human Computer Interaction Project 2
 
 ### For a C:
 ### Sketch of Mirror:
+![p2_Chloe_Nelson_Sketch](https://user-images.githubusercontent.com/114605562/202092664-d92475a0-73c1-4371-ae3d-6ae0e3326107.jpg)
+
 
 ### For a B:
 I have implemented for General Information: Personalized Calendar: Which is my list of tasks for a certain day; News Feed: Which is being read in from an API Call, this API call does have a limit for the day and if that limit was hit it could also go the News.json file; The Current Clock with time; and the Local Weather also being read in from an API Call; however, this one does not have a limit
